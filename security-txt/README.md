@@ -1,3 +1,4 @@
+npx @solana-program/program-metadata@latest write idl $PROGRAM_ID ./idl.json
 # security.txt
 
 [![](https://img.shields.io/crates/v/solana-security-txt)](https://crates.io/crates/solana-security-txt) [![](https://docs.rs/solana-security-txt/badge.svg)](https://docs.rs/solana-security-txt/) 
